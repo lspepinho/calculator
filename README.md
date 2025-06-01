@@ -57,5 +57,11 @@ Microsoft uses for the currency converter feature (e.g., in the retail version o
 for your use. The mock data will be clearly identifiable as it references planets instead of countries, 
 and remains static regardless of selected inputs.
 
+## Currency Converter
+Windows Calculator includes a currency converter feature that uses mock data in developer builds. The data that 
+Microsoft uses for the currency converter feature (e.g., in the retail version of the application) is not licensed 
+for your use. The mock data will be clearly identifiable as it references planets instead of countries, 
+and remains static regardless of selected inputs.
+
 ## Reporting Security Issues
 Security issues and bugs should be reported through the [GitHub security tab](https://github.com/nventive/calculator/security).
